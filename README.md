@@ -4,13 +4,13 @@ A dynamic, interactive Tableau dashboard built to provide deep insights into eco
 
 ---
 
-## 2. Purpose
+## 📋 Project Overview
 
 The Ecommerce Sales Prediction Dashboard is a visually powerful Tableau report designed for retail analysts and ecommerce strategists. It examines sales performance, customer profiles, discount impact, and product trends across multiple dimensions—supporting data-driven decisions in marketing, inventory, and targeting.
 
 ---
 
-## 3. Tech Stack
+## 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -22,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-## 4. Data Source
+##🔍 Data Source
 
 **Source**: [Ecommerce Sales Prediction Dataset – Kaggle](https://www.kaggle.com/datasets)
 
@@ -35,7 +35,7 @@ This dataset contains ecommerce transaction details including:
 
 ---
 
-## 5. Features / Highlights
+## ✨ Features / Highlights
 
 ### • Business Problem  
 Ecommerce businesses often lack intuitive tools to uncover performance patterns across customer segments, product categories, and weekly sales behaviors—making it hard to drive optimized campaigns or plan inventory.
@@ -48,11 +48,12 @@ To empower retail teams with an interactive dashboard that:
 
 ### • Walkthrough of Key Visuals  
 
-#### ➤ Key KPIs Panel  
-* Total Sales: \$15.0M  
-* Total Profit: \$11,238.3K  
-* Total Discount: 24,920  
-* Total Units Sold: 29,631  
+#### ## 📊 Key KPIs Tracked
+
+* 💰 **Total Sales**: \$15.0M  
+* 🎟️ **Total Discount**: 24,920  
+* 📈 **Total Profit**: \$11,238.3K  
+* 📦 **Total Units Sold**: 29,631   
 
 #### ➤ Sales by Day of Week (Bar Chart)  
 Bar graph highlights peak sales days—e.g., Monday’s near \$2.0M performance.
