@@ -22,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-##🔍 Data Source
+## 🔍 Data Source
 
 **Source**: [Ecommerce Sales Prediction Dataset – Kaggle](https://www.kaggle.com/datasets)
 
@@ -48,7 +48,7 @@ To empower retail teams with an interactive dashboard that:
 
 ### • Walkthrough of Key Visuals  
 
-#### ## 📊 Key KPIs Tracked
+## 📊 Key KPIs Tracked
 
 * 💰 **Total Sales**: \$15.0M  
 * 🎟️ **Total Discount**: 24,920  
