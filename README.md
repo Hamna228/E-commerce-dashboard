@@ -1,69 +1,81 @@
 # 🛒 Ecommerce Sales Prediction Dashboard
 
-A dynamic Tableau dashboard designed to deliver a comprehensive overview of ecommerce sales performance. It empowers retail and analytics teams to uncover product trends, customer behavior, and sales patterns for optimized decision-making.
+A dynamic, interactive Tableau dashboard built to provide deep insights into ecommerce performance—focusing on daily sales, profit margins, customer segmentation, and product category analysis.
 
 ---
 
-## 📋 Project Overview
+## 2. Purpose
 
-The **Ecommerce Sales Prediction Dashboard** showcases key insights across sales, profit, units sold, and discount metrics. Built in Tableau, it helps interpret performance trends by product category and customer segmentation—essential for predictive analysis, campaign planning, and inventory optimization.
-
----
-
-## 🛠️ Tools & Technologies
-
-* Tableau Desktop  
-* Calculated Fields for derived metrics  
-* Interactive charts and filters  
-* Dashboard Actions for smooth navigation  
+The Ecommerce Sales Prediction Dashboard is a visually powerful Tableau report designed for retail analysts and ecommerce strategists. It examines sales performance, customer profiles, discount impact, and product trends across multiple dimensions—supporting data-driven decisions in marketing, inventory, and targeting.
 
 ---
 
-## 📊 Key KPIs Tracked
+## 3. Tech Stack
 
-* 💰 **Total Sales**: \$15.0M  
-* 🎟️ **Total Discount**: 24,920  
-* 📈 **Total Profit**: \$11,238.3K  
-* 📦 **Total Units Sold**: 29,631  
+The dashboard was built using the following tools and technologies:
 
----
-
-## 📈 Dashboard Highlights
-
-* **Sales by Day of Week**  
-  Bar graph displaying daily sales trends to evaluate weekly performance, with Monday peaking near \$2.0M.
-
-* **Customer Segment Analysis**  
-  Donut charts provide a breakdown of Occasional, Premium, and Regular customers—vital for targeted marketing.
-
-* **Sales & Units by Category and Segment**  
-  Tabular breakdown of sales and units sold across five product categories: Electronics, Fashion, Home Decor, Sports, and Toys—each cross-referenced with customer segments.
-
-* **Product Trends Over Time**  
-  Line graphs for each category visualize sales progression—ideal for forecasting and tracking campaign effectiveness.
+• 📊 Tableau Desktop – Primary platform for interactive data visualizations  
+• 🧠 Calculated Fields – Used for KPI metrics, conditional formatting, and derived columns  
+• 🔁 Dashboard Actions – Enables seamless filtering and visual interactivity  
+• 🧼 Data Preparation – Data transformation using Tableau's built-in tools  
+• 📁 File Format – .twb for Tableau workbooks and .png for image previews  
 
 ---
 
-## 🧠 Strategic Insights
+## 4. Data Source
 
-* Analyze weekday performance and identify high-traffic sales windows  
-* Reveal top-performing product segments and customer types  
-* Detect underperforming categories and plan promotional strategies  
-* Understand consumer loyalty patterns based on segment behavior  
+**Source**: [Ecommerce Sales Prediction Dataset – Kaggle](https://www.kaggle.com/datasets)
 
----
-
-## 👤 Best For
-
-* E-commerce Analysts  
-* Marketing & Merchandising Teams  
-* Business Intelligence Professionals  
-* Retail Strategy Consultants  
+This dataset contains ecommerce transaction details including:
+* Order-level metrics such as Sales, Profit, Units Sold, and Discounts  
+* Customer Segments: Occasional, Premium, Regular  
+* Product Categories: Electronics, Fashion, Home Decor, Sports, Toys  
+* Daily sales performance across a 7-day week  
+* Time series data for category-level trends
 
 ---
 
-## 📸 Dashboard Preview
+## 5. Features / Highlights
+
+### • Business Problem  
+Ecommerce businesses often lack intuitive tools to uncover performance patterns across customer segments, product categories, and weekly sales behaviors—making it hard to drive optimized campaigns or plan inventory.
+
+### • Goal of the Dashboard  
+To empower retail teams with an interactive dashboard that:
+* Clarifies high-performing customer groups and product segments  
+* Reveals discount influence and weekday traffic trends  
+* Supports targeted marketing and supply chain planning  
+
+### • Walkthrough of Key Visuals  
+
+#### ➤ Key KPIs Panel  
+* Total Sales: \$15.0M  
+* Total Profit: \$11,238.3K  
+* Total Discount: 24,920  
+* Total Units Sold: 29,631  
+
+#### ➤ Sales by Day of Week (Bar Chart)  
+Bar graph highlights peak sales days—e.g., Monday’s near \$2.0M performance.
+
+#### ➤ Category vs. Segment Breakdown (Table)  
+Matrix compares five product categories with customer types—displaying total units and sales values.
+
+#### ➤ Segment Distribution (Donut Charts)  
+Visuals for Premium, Regular, and Occasional customers to gauge loyalty and size.
+
+#### ➤ Product Trends (Line Charts)  
+Time series for each category—tracking sales performance daily.
+
+---
+
+### • Business Impact & Insights  
+📈 **Campaign Targeting**: Design promotional offers based on customer type and category performance  
+🧾 **Revenue Forecasting**: Use daily trends for accurate planning  
+📦 **Inventory Management**: Spot high-demand categories for stock optimization  
+🎯 **Customer Segmentation**: Understand spending behavior to personalize strategies  
+
+---
+
+## 6. Screenshot / Demo  
 
 ![Ecommerce Sales Prediction Dashboard](https://github.com/Hamna228/E-commerce-dashboard/blob/main/E%20commerce%20dashboard.png)
-
----
